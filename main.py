@@ -1,7 +1,7 @@
-import tkinter
 import sqlite3
 from PIL import ImageTk, Image
-from tkinter import Button, filedialog, Label, Menu, Tk, ttk
+from tkinter import filedialog, Label, Menu, Tk, ttk
+from naviButton import NaviButton
 
 
 root = Tk()
